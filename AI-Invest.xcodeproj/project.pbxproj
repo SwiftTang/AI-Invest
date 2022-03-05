@@ -13,6 +13,7 @@
 		02BB179C27D41E9E0048958A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02BB179B27D41E9E0048958A /* Preview Assets.xcassets */; };
 		02BB179E27D41E9E0048958A /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BB179D27D41E9E0048958A /* Persistence.swift */; };
 		02BB17A127D41E9E0048958A /* AI_Invest.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 02BB179F27D41E9E0048958A /* AI_Invest.xcdatamodeld */; };
+		02BB17A927D420420048958A /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BB17A827D420420048958A /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		02BB179D27D41E9E0048958A /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		02BB17A027D41E9E0048958A /* AI_Invest.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = AI_Invest.xcdatamodel; sourceTree = "<group>"; };
 		02BB17A727D41EBA0048958A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		02BB17A827D420420048958A /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				02BB179427D41E9C0048958A /* AI_InvestApp.swift */,
 				02BB179627D41E9C0048958A /* ContentView.swift */,
+				02BB17A827D420420048958A /* Home.swift */,
 				02BB179827D41E9E0048958A /* Assets.xcassets */,
 				02BB179D27D41E9E0048958A /* Persistence.swift */,
 				02BB179F27D41E9E0048958A /* AI_Invest.xcdatamodeld */,
@@ -147,6 +150,7 @@
 			files = (
 				02BB17A127D41E9E0048958A /* AI_Invest.xcdatamodeld in Sources */,
 				02BB179E27D41E9E0048958A /* Persistence.swift in Sources */,
+				02BB17A927D420420048958A /* Home.swift in Sources */,
 				02BB179727D41E9C0048958A /* ContentView.swift in Sources */,
 				02BB179527D41E9C0048958A /* AI_InvestApp.swift in Sources */,
 			);
