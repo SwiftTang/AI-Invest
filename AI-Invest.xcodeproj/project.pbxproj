@@ -23,6 +23,7 @@
 		02BB179B27D41E9E0048958A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		02BB179D27D41E9E0048958A /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		02BB17A027D41E9E0048958A /* AI_Invest.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = AI_Invest.xcdatamodel; sourceTree = "<group>"; };
+		02BB17A727D41EBA0048958A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 				02BB179D27D41E9E0048958A /* Persistence.swift */,
 				02BB179F27D41E9E0048958A /* AI_Invest.xcdatamodeld */,
 				02BB179A27D41E9E0048958A /* Preview Content */,
+				02BB17A727D41EBA0048958A /* README.md */,
 			);
 			path = "AI-Invest";
 			sourceTree = "<group>";
