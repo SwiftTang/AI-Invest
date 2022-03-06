@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		02BB179127D41E9C0048958A /* AI-Invest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AI-Invest.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		02BB179127D41E9C0048958A /* SwiftInvest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftInvest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		02BB179427D41E9C0048958A /* AI_InvestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AI_InvestApp.swift; sourceTree = "<group>"; };
 		02BB179627D41E9C0048958A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		02BB179827D41E9E0048958A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		02BB179227D41E9C0048958A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				02BB179127D41E9C0048958A /* AI-Invest.app */,
+				02BB179127D41E9C0048958A /* SwiftInvest.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -81,9 +81,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		02BB179027D41E9C0048958A /* AI-Invest */ = {
+		02BB179027D41E9C0048958A /* SwiftInvest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 02BB17A427D41E9E0048958A /* Build configuration list for PBXNativeTarget "AI-Invest" */;
+			buildConfigurationList = 02BB17A427D41E9E0048958A /* Build configuration list for PBXNativeTarget "SwiftInvest" */;
 			buildPhases = (
 				02BB178D27D41E9C0048958A /* Sources */,
 				02BB178E27D41E9C0048958A /* Frameworks */,
@@ -93,9 +93,9 @@
 			);
 			dependencies = (
 			);
-			name = "AI-Invest";
+			name = SwiftInvest;
 			productName = "AI-Invest";
-			productReference = 02BB179127D41E9C0048958A /* AI-Invest.app */;
+			productReference = 02BB179127D41E9C0048958A /* SwiftInvest.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -113,7 +113,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 02BB178C27D41E9C0048958A /* Build configuration list for PBXProject "AI-Invest" */;
+			buildConfigurationList = 02BB178C27D41E9C0048958A /* Build configuration list for PBXProject "SwiftInvest" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -126,7 +126,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				02BB179027D41E9C0048958A /* AI-Invest */,
+				02BB179027D41E9C0048958A /* SwiftInvest */,
 			);
 		};
 /* End PBXProject section */
@@ -300,7 +300,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -329,14 +329,14 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		02BB178C27D41E9C0048958A /* Build configuration list for PBXProject "AI-Invest" */ = {
+		02BB178C27D41E9C0048958A /* Build configuration list for PBXProject "SwiftInvest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				02BB17A227D41E9E0048958A /* Debug */,
@@ -345,7 +345,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		02BB17A427D41E9E0048958A /* Build configuration list for PBXNativeTarget "AI-Invest" */ = {
+		02BB17A427D41E9E0048958A /* Build configuration list for PBXNativeTarget "SwiftInvest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				02BB17A527D41E9E0048958A /* Debug */,
